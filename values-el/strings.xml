@@ -221,8 +221,13 @@
     <string name="option_resume">Συνέχιση</string>
     <string name="do_you_wish_to_resume">Θέλετε να συνεχίσετε από εκεί που μείνατε;</string>
 
+    <string name="exit">Έξοδος</string>
+    <string name="exit_confirm">Είστε σίγουροι;</string>
+
     <string name="action_play">Αναπαραγωγή</string>
+    <string name="action_cast">Αναμετάδοση</string>
     <string name="action_play_with_subs">Αναπαραγωγή με υπότιτλους</string>
+    <string name="action_cast_with_subs">Αναμετάδοση με υπότιτλους</string>
     <string name="action_download">Λήψη</string>
     <string name="action_download_with_subs">Λήψη με υπότιτλους</string>
     <string name="action_copy_link">Αντιγραφή συνδέσμου ροής</string>
@@ -350,6 +355,8 @@
     <string name="ttv_watch_now">Δείτε τώρα!</string>
     <string name="ttv_watch_now_desc">Πατήστε αυτό κουμπί για να παρακολουθήσετε σε Υψηλή Ευκρίνεια εντελώς δωρεάν!</string>
     <string name="ttv_watch_new_movies_now">Παρακολουθήσε τώρα %1$d νέες ταινίες!</string>
+    <string name="ttv_switch_video_player">Αλλαγή προγράμματος αναπαραγωγής</string>
+    <string name="ttv_switch_video_player_desc">Πατήστε αυτό κουμπί για να αλλάξετε το πρόγραμμα αναπαραγωγής βίντεο!</string>
 
     <string name="exo_player_resize_mode">Λειτουργία αλλαγής μεγέθους</string>
     <string name="exo_player_fit_to_screen">Προσαρμογή στην οθόνη</string>
