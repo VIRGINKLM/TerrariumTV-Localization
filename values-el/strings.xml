@@ -132,7 +132,7 @@
     <string name="pref_new_movie_release_notification">Ειδοποίηση νέας ταινίας</string>
     <string name="pref_playback">Αναπαραγωγή</string>
     <string name="pref_ui">Περιβάλλον χρήστη</string>
-    <string name="pref_sources_and_resolvers">Παροχείς και Resolvers</string>
+    <string name="pref_sources_and_resolvers">Παροχείς και Επιλυτές</string>
     <string name="pref_subtitle">Υπότιτλοι για OpenSubtitles και Subscene</string>
     <string name="pref_subtitle_chin">Υπότιτλοι για SubHD, Makedie και Zimuku</string>
     <string name="pref_subtitles_style">Στύλ Υποτίτλων</string>
