@@ -116,7 +116,7 @@
     <string name="genre_movie_history">Ιστορίας</string>
     <string name="genre_movie_war">Πολέμου</string>
     <string name="genre_movie_documentary">Νροκιμαντέρ</string>
-    <string name="genre_movie_music">Μουσικές</string>
+    <string name="genre_movie_music">Μιούζικαλ</string>
 
     <string name="list_stand_up_comedy">Stand-up Κωμωδία</string>
     <string name="list_movie_oscars_winners">Νικητές Oscar</string>
@@ -235,7 +235,7 @@
     <string name="choose_player">Επιλογή προγράμματος αναπαραγωγής βίντεο…</string>
     <string name="no_player_was_found">Δεν βρέθηκε πρόγραμμα αναπαραγωγής βίντεο</string>
     <string name="choose_external_download_manager">Επιλογή εξωτερικού διαχειριστή λήψης…</string>
-    <string name="no_external_download_manager_was_found">Δεν βρέθηκε εξωτερικός διαχειριστής λήψεων. Κάντε τον λήψη από το Play Store ή χρησιμοποιήστε τον εσωτερικό διαχειριστή λήψης Android</string>
+    <string name="no_external_download_manager_was_found">Δεν βρέθηκε ο εξωτερικός διαχειριστής λήψεων. Κάντε τον λήψη από το Play Store ή χρησιμοποιήστε τον εσωτερικό διαχειριστή λήψης Android</string>
     <string name="download_started">Η λήψη ξεκίνησε…</string>
     <string name="download_path_error">Η διαδρομή λήψης πρέπει να οδηγεί στην εσωτερική μνήμη αποθήκευσης. Επιλέξτε άλλη διαδρομή.</string>
     <string name="copied_link">Ο σύνδεσμος ροής αντιγράφηκε!</string>
@@ -370,10 +370,10 @@
     <string name="exo_player_volume">Ένταση: %s</string>
     <string name="exo_player_brightness">Φωτεινότητα: %s</string>
     <string name="exo_player_sound_tracks">Κομμάτια Ήχου</string>
-    <string name="exo_player_error_unable_to_set_subs_style">Αδυναμία ρύθμισης στυλ υπότιτλων</string>
+    <string name="exo_player_error_unable_to_set_subs_style">Αδυναμία ρύθμισης στυλ υποτίτλων</string>
     <string name="exo_player_error_none_video_tracks_are_playable">Το μέσο περιλαμβάνει κομμάτια βίντεο, αλλά κανένα δεν μπορεί να αναπαραχθεί από αυτήν τη συσκευή</string>
     <string name="exo_player_error_none_audio_tracks_are_playable">Το μέσο περιλαμβάνει κομμάτια ήχου, αλλά κανένα δεν μπορεί να αναπαραχθεί από αυτήν τη συσκευή</string>
-    <string name="exo_player_error_unable_to_parse_subs">Αδυναμία ανάλυσης των υπότιτλων</string>
+    <string name="exo_player_error_unable_to_parse_subs">Αδυναμία ανάλυσης των υποτίτλων</string>
     <string name="exo_player_error_unable_to_render_subs">Αυτή η συσκευή δεν μπορεί να εμφανίσει τους υπότιτλους</string>
     <string name="exo_player_error_unable_to_query_decoders">Αδυναμία διερεύνησης αποκωδικοποιητών της συσκευής</string>
     <string name="exo_player_error_no_decoder">Αυτή η συσκευή δεν παρέχει αποκωδικοποιητή για %s</string>
