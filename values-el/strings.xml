@@ -24,7 +24,7 @@
     <string name="action_remove_watched">Κατάργηση Παρακολουθημένου</string>
     <string name="action_share_app">Κοινή χρήση εφαρμογής</string>
     <string name="action_remove">Κατάργηση</string>
-    <string name="action_remove_with_files">Καταργηση μαζί με τα αρχεία</string>
+    <string name="action_remove_with_files">Κατάργηση μαζί με τα αρχεία</string>
     <string name="action_remove_all">Κατάργηση όλων</string>
     <string name="action_select_date">Επιλογή Ημερομηνίας</string>
     <string name="show_all">Εμφάνιση όλων</string>
@@ -44,15 +44,15 @@
     <string name="getting_subtitle">Ανάκτηση υποτίτλων… Παρακαλώ περιμένετε…</string>
     <string name="downloading_subtitle_toast">Λήψη υποτίτλων… Παρακαλώ περιμένετε…</string>
     <string name="ready_to_play_toast">Το βίντεο θα ξεκινήσει σύντομα…</string>
-	<string name="search_something">Αναζητήστε κάτι…</string>
+    <string name="search_something">Αναζητήστε κάτι…</string>
     <string name="searching_media">Αναζήτηση…</string>
-    <string name="no_tv_shows_found">Δεν βρέθηκαν TV show</string>
+    <string name="no_tv_shows_found">Δεν βρέθηκαν τηλεοπτικές εκπομπές</string>
     <string name="no_movies_found">Δεν βρέθηκαν ταινίες</string>
     <string name="no_favorite_shows_airing_that_day">Δεν υπάρχουν αγαπημένες τηλεοπτικές εκπομπές που εκπέμπουν αυτή την ημέρα</string>
-    <string name="subtitle_language">Γλώσσα υποτίτλων : </string>
-    <string name="subtitle_download_failed">Η λήψη των υπότιτλων απέτυχε… Δοκιμάστε άλλους υπότιτλους…</string>
+    <string name="subtitle_language">Γλώσσα υποτίτλων :</string>
+    <string name="subtitle_download_failed">Η λήψη των υποτίτλων απέτυχε… Δοκιμάστε άλλους υπότιτλους…</string>
     <string name="subtitle_extract_failed">Η εξαγωγή υποτίτλων απέτυχε… Δοκιμάστε άλλους υπότιτλους…</string>
-    <string name="permission_grant_toast">Πατήστε \"Επιτρέψτε\" για χορήγηση άδειας και να προσπαθήσετε ξανά</string>
+    <string name="permission_grant_toast">Πατήστε \"Επιτρέψτε\" για χορήγηση άδειας και προσπαθήστε ξανά</string>
     <string name="sorry">Συγνώμη…</string>
     <string name="cant_be_opened_by_other_players">Αυτή η πηγή δεν μπορεί να ανοιχτεί ή να αναπαραχθεί από άλλες συσκευές αναπαραγωγής βίντεο. Ζητούμε συγγνώμη για την ταλαιπωρία.</string>
 
@@ -88,7 +88,7 @@
     <string name="genre_tv_sci_fantasy">Επιστημονικής Φαντασίας</string>
     <string name="genre_tv_mystery">Μυστηρίου</string>
     <string name="genre_tv_crime">Εγκλήματος</string>
-    <string name="genre_tv_drama">Δράματικές</string>
+    <string name="genre_tv_drama">Δραματικές</string>
     <string name="genre_tv_comedy">Κωμωδίες</string>
     <string name="genre_tv_family">Οικογενειακές</string>
     <string name="genre_tv_western">Άγριας Δύσης</string>
@@ -115,14 +115,14 @@
     <string name="genre_movie_western">Άγριας Δύσης</string>
     <string name="genre_movie_history">Ιστορίας</string>
     <string name="genre_movie_war">Πολέμου</string>
-    <string name="genre_movie_documentary">Νροκιμαντέρ</string>
+    <string name="genre_movie_documentary">Ντοκιμαντέρ</string>
     <string name="genre_movie_music">Μιούζικαλ</string>
 
     <string name="list_stand_up_comedy">Stand-up Κωμωδία</string>
     <string name="list_movie_oscars_winners">Νικητές Oscar</string>
     <string name="list_movie_christmas">Χριστουγέννων</string>
     <string name="list_movie_marvels">Marvel</string>
-    <string name="list_movie_disney_classics">Κλασικά Disney</string>
+    <string name="list_movie_disney_classics">Disney</string>
 
     <string name="filter_year">Φίλτρο Χρονολογίας</string>
 
@@ -135,12 +135,12 @@
     <string name="pref_sources_and_resolvers">Παροχείς και Επιλυτές</string>
     <string name="pref_subtitle">Υπότιτλοι για OpenSubtitles και Subscene</string>
     <string name="pref_subtitle_chin">Υπότιτλοι για SubHD, Makedie και Zimuku</string>
-    <string name="pref_subtitles_style">Στύλ Υποτίτλων</string>
+    <string name="pref_subtitles_style">Στυλ Υποτίτλων</string>
     <string name="pref_backup_and_restore">Αντίγραφα ασφαλείας και επαναφορά</string>
     <string name="pref_others">Άλλα</string>
 
     <string name="pref_sub_down_path">Διαδρομή λήψης υποτίτλων</string>
-    <string name="pref_sub_down_path_des">Οι υπότιτλοι θα μεταφορτωθούν και θα αποθηκευτούν σε αυτήν τη διαδρομή.</string>
+    <string name="pref_sub_down_path_des">Οι υπότιτλοι θα μεταφορτωθούν και θα αποθηκευτούν σε αυτή τη διαδρομή.</string>
     <string name="pref_media_down_path">Διαδρομή λήψης πολυμέσων (Μόνο για τον εσωτερικό διαχειριστή λήψεων Android)</string>
     <string name="pref_choose_media_down_manager">Επιλέξτε προεπιλεγμένο διαχειριστή λήψεων…</string>
     <string name="pref_auto_check_update">Αυτόματος έλεγχος ενημερώσεων</string>
@@ -164,13 +164,13 @@
     <string name="pref_hide_title_and_year_under_posters">Απόκρυψη τίτλου και χρονολογίας κάτω από τις αφίσες</string>
     <string name="pref_hide_season_image">Απόκρυψη μικρογραφιών σεζόν</string>
     <string name="pref_hide_episode_image">Απόκρυψη μικρογραφιών επεισοδίου</string>
-    <string name="pref_hide_episode_synopsis">Απόκρυψη σύνοψης επεισοδίου</string>>
+    <string name="pref_hide_episode_synopsis">Απόκρυψη σύνοψης επεισοδίου</string>
     <string name="pref_hide_recaptcha_verification_message">Απόκρυψη μηνύματος επικύρωσης reCaptcha</string>
     <string name="pref_show_menu_source">Εμφάνιση μενού με ένα κλικ στη λίστα πηγών</string>
     <string name="pref_poster_size">Μέγεθος αφίσας μέσων</string>
     <string name="pref_parallel_loading_sources">Παράλληλη φόρτωση πηγών</string>
     <string name="pref_parallel_loading_sources_desc">Προτείνεται η ενεργοποίηση. Επιταχύνεται η ταχύτητα φόρτωσης των πηγών κατά 5 φορές. Εντούτοις, μπορεί να προκαλέσει προβλήματα σε ορισμένες συσκευές χαμηλών επιδόσεων.</string>
-    <string name="pref_simple_scrolling_on_tv">Απλή κύλιση στο Android TV</string>
+    <string name="pref_simple_scrolling_on_tv">Απλή κύλιση σε Android TV</string>
     <string name="simple_scrolling_is_enabled">Η απλή κύλιση είναι ενεργοποιημένη. Μπορείτε να την απενεργοποιήσετε στις Ρυθμίσεις.</string>
     <string name="pref_choose_default_nav">Προεπιλεγμένη πλοήγηση…</string>
     <string name="pref_choose_default_category_tv_shows">Προεπιλεγμένη κατηγορία τηλεοπτικής εκπομπής…</string>
@@ -188,10 +188,10 @@
     <string name="pref_choose_default_player">Προεπιλεγμένο πρόγραμμα αναπαραγωγής βίντεο…</string>
     <string name="pref_show_hd_sources_only">Εμφάνιση μόνο συνδέσμων Υψηλής Ευκρίνειας</string>
     <string name="pref_show_season_special">Εμφάνιση σπέσιαλ επεισοδίου της σεζόν</string>
-    <string name="pref_auto_backup_before_update">Αυτόματη δημιουργία αντίγράφου ασφαλείας πριν την ενημέρωση</string>
+    <string name="pref_auto_backup_before_update">Αυτόματη δημιουργία αντιγράφου ασφαλείας πριν την ενημέρωση</string>
     <string name="pref_cc_subs_font_scale">Μεγέθος γραμματοσειράς</string>
     <string name="pref_cc_subs_font_color">Χρώμα γραμματοσειράς</string>
-    <string name="pref_cc_subs_bg_color">Χρώμα του φόντου</string>
+    <string name="pref_cc_subs_bg_color">Χρώμα φόντου</string>
     <string name="pref_backup_settings">Δημιουργία αντιγράφου ρυθμίσεων</string>
     <string name="pref_restore_settings">Επαναφορά ρυθμίσεων</string>
     <string name="pref_backup_favorites">Δημιουργία αντιγράφου αγαπημένων</string>
@@ -207,15 +207,15 @@
     <string name="pref_resolve_all_links_immediately">Άμεση επίλυση όλων των συνδέσμων</string>
     <string name="pref_resolve_all_links_immediately_desc">Επίλυση όλων των συνδέσμων για άμεση αναπαραγωγή. Εάν αυτή η επιλογή απενεργοποιηθεί, το Terrarium TV θα επιλύσει τη σύνδεση μόνο όταν ζητηθεί από τον χρήστη. (Απενεργοποιήστε το όταν η εφαρμογή παρουσιάζει καθυστερήσεις!)</string>
     <string name="pref_auto_resolve_hd_links_only">Αυτόματη επίλυση μόνο συνδέσμων υψηλής ευκρίνειας</string>
-	<string name="pref_sources_list_refresh_interval">Χρονικό διάστημα ανανέωσης λίστας πηγών (σε δευτερόλεπτα)</string>
-    <string name="pref_sources_list_refresh_interval_msg">Άν η εφαρμογή συνεχίζει να παγώνει κατά τη φόρτωση συνδέσμων, αυξήστε την τιμή.</string>
+    <string name="pref_sources_list_refresh_interval">Χρονικό διάστημα ανανέωσης λίστας πηγών (σε δευτερόλεπτα)</string>
+    <string name="pref_sources_list_refresh_interval_msg">Αν η εφαρμογή συνεχίζει να παγώνει κατά τη φόρτωση συνδέσμων, αυξήστε την τιμή.</string>
     <string name="restart_to_see_the_difference">Κάντε επανεκκίνηση το Terrarium TV για να εφαρμοστούν οι αλλαγές.</string>
     <string name="resolve_all_links_immediately_is_disabled">Η επιλογή \"Άμεση επίλυση όλων των συνδέσμων\" είναι απενεργοποιημένη</string>
 
     <string name="download_manager_internal">Εσωτερικός Διαχειριστής λήψεων Android</string>
     <string name="download_manager_external">Εξωτερικοί διαχειριστές λήψεων</string>
 
-    <string name="option_player_default">Προεπιλογή προγράμματος αναπαραγωγής</string>
+    <string name="option_player_default">Προεπιλεγμένο πρόγραμμα αναπαραγωγής</string>
     <string name="option_always_ask">Ερώτηση πάντα</string>
     <string name="option_start_over">Ξανά από την αρχή</string>
     <string name="option_resume">Συνέχιση</string>
@@ -231,7 +231,7 @@
     <string name="action_download">Λήψη</string>
     <string name="action_download_with_subs">Λήψη με υπότιτλους</string>
     <string name="action_copy_link">Αντιγραφή συνδέσμου ροής</string>
-    <string name="action_play_via_other_players">Ανοιγμα με…</string>
+    <string name="action_play_via_other_players">Άνοιγμα με…</string>
     <string name="choose_player">Επιλογή προγράμματος αναπαραγωγής βίντεο…</string>
     <string name="no_player_was_found">Δεν βρέθηκε πρόγραμμα αναπαραγωγής βίντεο</string>
     <string name="choose_external_download_manager">Επιλογή εξωτερικού διαχειριστή λήψης…</string>
@@ -244,12 +244,12 @@
     <string name="choose_subtitles_file">Επιλογή ενός αρχείου υποτίτλων…</string>
 
     <string name="update_title">Βρέθηκε νέα έκδοση : %s</string>
-    <string name="update_message">Έκδοση %s : </string>
+    <string name="update_message">Έκδοση %s :</string>
     <string name="update_button">Ενημέρωση</string>
     <string name="update_downloading">Λήψη ενημέρωσης %s</string>
     <string name="update_failed">Η ενημέρωση απέτυχε ή ακυρώθηκε</string>
 
-    <string name="subtitle_name">Όνομα υποτίτλων : </string>
+    <string name="subtitle_name">Όνομα υποτίτλων :</string>
 
     <string name="facebook_page">Σελίδα στο Facebook</string>
     <string name="official_website_menuitem">Επίσημη ιστοσελίδα</string>
@@ -284,8 +284,8 @@
     <string name="meta_returning_series">Σειρά που επιστρέφει</string>
     <string name="meta_ended">Ολοκληρώθηκε</string>
 
-    <string name="navigation_drawer_open">Ανοίξτε το παραθυρο πλοήγησης</string>
-    <string name="navigation_drawer_close">Κλείστε το παραθυρο πλοήγησης</string>
+    <string name="navigation_drawer_open">Ανοίξτε το παράθυρο πλοήγησης</string>
+    <string name="navigation_drawer_close">Κλείστε το παράθυρο πλοήγησης</string>
 
     <string name="tv_shows">Τηλεοπτικές εκπομπές</string>
     <string name="movies">Κινηματογράφος</string>
@@ -312,8 +312,8 @@
 
     <string name="try_it">Δοκιμάστε το!</string>
     <string name="click_play_button_on_your_rc">Πατήστε το κουμπί "Αναπαραγωγή" ή πατήστε παρατεταμένα το πλήκτρο "Enter" στο τηλεχειριστήριο για να άμεση αναπαραγωγή!</string>
-	<string name="press_back_again_to_exit">Πατήστε ξανά ΠΙΣΩ για να βγείτε</string>
-	
+    <string name="press_back_again_to_exit">Πατήστε ξανά ΠΙΣΩ για να βγείτε</string>
+
     <string name="in_progress">Σε εξέλιξη</string>
     <string name="finished">Ολοκληρώθηκε</string>
     <string name="file_not_found">Το αρχείο δε βρέθηκε!</string>
@@ -329,7 +329,7 @@
 
     <string name="android_download_manager_is_disabled">Ο Διαχειριστής λήψεων Android είναι απενεργοποιημένος</string>
     <string name="android_download_manager_is_disabled_msg">Για να κάνετε λήψη αρχείων, πρέπει πρώτα να ενεργοποιήσετε τον εσωτερικό Διαχειριστή λήψεων Android. Κάντε κλικ στο "OK" για να συνεχίσετε.</string>
-	
+
     <string name="like_us_on_facebook_title">Κάντε μας like στο Facebook!</string>
     <string name="like_us_on_facebook_message">Πιστεύετε ότι η εφαρμογή είναι χρήσιμη; Κάντε μας like στο Facebook για να δείξετε την υποστήριξή σας!</string>
     <string name="like_us_on_facebook_yes">Μου Αρέσει!</string>
@@ -337,8 +337,8 @@
 
     <string name="media_route_menu_title">Αναπαραγωγή…</string>
     <string name="chromecast_available">Chromecast διαθέσιμο</string>
-    <string name="chromecast_not_connected">Chromecast μη συνδεδεμένο</string>
-    <string name="chromecast_resume_failed">Συνέχιση αναπαραγωγής βίντεο απέτυχε</string>
+    <string name="chromecast_not_connected">Το Chromecast δεν είναι συνδεδεμένο</string>
+    <string name="chromecast_resume_failed">Η συνέχιση αναπαραγωγής βίντεο απέτυχε</string>
     <string name="chromecast_failed_to_play">Αδυναμία αναπαραγωγής βίντεο</string>
     <string name="video_cant_be_casted">Το βίντεο δεν μπορεί να μεταδοθεί σε Chromecast</string>
     <string name="cant_be_casted_message">Αυτός ο σύνδεσμος δεν μπορεί να μεταδοθεί χρησιμοποιώντας την ενσωματωμένη λειτουργία Chromecast λόγω ορισμένων τεχνικών περιορισμών. Χρησιμοποιήστε το LocalCast ή το AllCast για να μεταδώσετε αυτόν τον σύνδεσμο.</string>
@@ -373,7 +373,7 @@
     <string name="exo_player_error_unable_to_set_subs_style">Αδυναμία ρύθμισης στυλ υποτίτλων</string>
     <string name="exo_player_error_none_video_tracks_are_playable">Το μέσο περιλαμβάνει κομμάτια βίντεο, αλλά κανένα δεν μπορεί να αναπαραχθεί από αυτήν τη συσκευή</string>
     <string name="exo_player_error_none_audio_tracks_are_playable">Το μέσο περιλαμβάνει κομμάτια ήχου, αλλά κανένα δεν μπορεί να αναπαραχθεί από αυτήν τη συσκευή</string>
-    <string name="exo_player_error_unable_to_parse_subs">Αδυναμία ανάλυσης των υποτίτλων</string>
+    <string name="exo_player_error_unable_to_parse_subs">Αδυναμία ανάλυσης υποτίτλων</string>
     <string name="exo_player_error_unable_to_render_subs">Αυτή η συσκευή δεν μπορεί να εμφανίσει τους υπότιτλους</string>
     <string name="exo_player_error_unable_to_query_decoders">Αδυναμία διερεύνησης αποκωδικοποιητών της συσκευής</string>
     <string name="exo_player_error_no_decoder">Αυτή η συσκευή δεν παρέχει αποκωδικοποιητή για %s</string>
@@ -384,7 +384,7 @@
     <string name="exo_player_error_http">Σφάλμα HTTP: %s</string>
     <string name="exo_player_error_media_source_does_not_exist">Δεν υπάρχει πηγή μέσου</string>
 
-    <string name="customactivityoncrash_error_activity_error_occurred_explanation">Παρουσιάστηκε ένα μη αναμενόμενο σφάλμα και έχει αναφερθεί στον προγραμματιστή.\nΛυπούμαστε για την ταλαιπωρία.\n\nΑν η εφαρμογή συνεχίζει να αντιμετωπίζει προβλήματα, ελέγξτε τις επιλογές του μενού \"Επίδοση\" που βρίσκεται στο μενού \"Ρυθμίσεις\".</string>
+    <string name="customactivityoncrash_error_activity_error_occurred_explanation">Παρουσιάστηκε ένα μη αναμενόμενο σφάλμα και έχει αναφερθεί στον προγραμματιστή.\nΛυπούμαστε για την ταλαιπωρία.\n\nΑν η εφαρμογή συνεχίζει να αντιμετωπίζει προβλήματα, ελέγξτε τις επιλογές του μενού \"Επιδόσεις\" που βρίσκεται στο μενού \"Ρυθμίσεις\".</string>
     <string name="customactivityoncrash_error_activity_unknown_exception">Άγνωστο σφάλμα</string>
     <string name="customactivityoncrash_error_activity_restart_app">Επανεκκίνηση Terrarium TV</string>
     <string name="customactivityoncrash_error_activity_close_app">Κλείσιμο Terrarium TV</string>
@@ -395,7 +395,7 @@
     <string name="customactivityoncrash_error_activity_error_details_copied">Αντιγράφηκε στο πρόχειρο</string>
     <string name="customactivityoncrash_error_activity_error_details_clipboard_label">Πληροφορίες σφάλματος</string>
 
-    <!-- DO NOT EDIT THE STRINGS BELOW -->
+	<!-- DO NOT EDIT THE STRINGS BELOW -->
     <string name="app_name" translatable="false">Terrarium TV</string>
     <string name="privacy_policy" translatable="false">Privacy Policy</string>
     <string name="about_app_title" translatable="false">About Terrarium TV</string>
