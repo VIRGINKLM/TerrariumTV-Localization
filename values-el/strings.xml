@@ -60,7 +60,7 @@
     <string name="cancel">Άκυρο</string>
     <string name="close">Κλείσιμο</string>
     <string name="install">Εγκατάσταση</string>
-    <string name="close_ad_to_play">Κλείστε πρώτα τη διαφήμιση για να αναπαραγάγετε το βίντεο</string>
+    <string name="close_ad_to_play">Κλείστε πρώτα τη διαφήμιση για να αναπαράξετε το βίντεο</string>
 
     <string name="mxplayer_not_installed">Δεν έχει εγκατασταθεί το MX Player</string>
     <string name="mxplayer_not_installed_message">Το MX Player δεν είναι εγκατεστημένο στη συσκευή σας. Το Terrarium TV χρειάζεται το MX Player για να αναπαράγει μέσα. Πατήστε στην επιλογή "Εγκατάσταση" για να εγκαταστήσετε το MX Player.</string>
