@@ -221,8 +221,13 @@
     <string name="option_resume">继续播放</string>
     <string name="do_you_wish_to_resume">你想从上次的位置恢复播放吗?</string>
 
+    <string name="exit">退出</string>
+    <string name="exit_confirm">你确定要退出吗?</string>
+
     <string name="action_play">播放</string>
+    <string name="action_cast">投射</string>
     <string name="action_play_with_subs">选择字幕播放</string>
+    <string name="action_cast_with_subs">选择字幕投射</string>
     <string name="action_download">下载</string>
     <string name="action_download_with_subs">带字幕下载</string>
     <string name="action_copy_link">复制流媒体链接</string>
@@ -330,16 +335,16 @@
     <string name="like_us_on_facebook_yes">赞!</string>
     <string name="dont_ask_again_checkbox">不再询问</string>
 
-    <string name="media_route_menu_title">投放到 Chromecast</string>
+    <string name="media_route_menu_title">投射到 Chromecast</string>
     <string name="chromecast_available">Chromecast 可用</string>
     <string name="chromecast_not_connected">未连接 Chromecast</string>
     <string name="chromecast_resume_failed">恢复视频播放失败</string>
     <string name="chromecast_failed_to_play">无法播放视频</string>
     <string name="video_cant_be_casted">Chromecast 无法播放此视频</string>
-    <string name="cant_be_casted_message">由于技术限制，此视频无法被投放到 Chromecast 上，请使用 LocalCast 或 AllCast 来进行投放。</string>
+    <string name="cant_be_casted_message">由于技术限制，此视频无法被投射到 Chromecast 上，请使用 LocalCast 或 AllCast 来进行投射。</string>
     <string name="google_play_services_not_installed">未安装 Google Play 服务</string>
     <string name="cant_cast_on_tv">无法在 Android TV 上使用 Chromecast</string>
-    <string name="preparing_to_cast">准备投放视频中…</string>
+    <string name="preparing_to_cast">准备投射视频中…</string>
 
     <string name="exo_player_resize_mode">缩放模式</string>
     <string name="exo_player_fit_to_screen">适合屏幕</string>
@@ -357,6 +362,8 @@
     <string name="ttv_watch_now">立即观看!</string>
     <string name="ttv_watch_now_desc">点击这个按钮立即观看!</string>
     <string name="ttv_watch_new_movies_now">立即观看 %1$d 部新电影!</string>
+    <string name="ttv_switch_video_player">切换视频播放器</string>
+    <string name="ttv_switch_video_player_desc">点此按钮选择其他视频播放器</string>
 
     <string name="exo_player_disabled">关闭</string>
     <string name="exo_player_default">默认</string>
